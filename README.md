@@ -1,5 +1,5 @@
 # BubbleCAN
-Code used to perform statistics for the BubbleCAN study
+Code used to perform statistics for the BubbleCAN study.
 
 If code is used to produce code for another study, please cite the following paper:
 
