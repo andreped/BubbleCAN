@@ -1,4 +1,6 @@
 # BubbleCAN
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
+
 Code used to perform statistics for the BubbleCAN study.
 
 If code is used to produce code for another study, please cite the following paper:
@@ -18,3 +20,7 @@ author = {Sofie Snipstad and Ýrr Mørch and Einar Sulheim and Andreas Åslund a
 keywords = {Microbubbles, Drug delivery, Nanomedicine, Nanoparticles, Cabazitaxel, Ultrasound, Cavitation, Sonopermeation, Sonoporation, Sonochemotherapy},
 }
 ```
+
+------
+
+Made with :heart: and python
